@@ -1,0 +1,23 @@
+# Blender 3.5.1 MTL File: 'None'
+# www.blender.org
+
+newmtl base.002
+Ns 96.078453
+Ka 0.300000 0.300000 0.300000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 3
+map_Kd piper/piper_diffuse.png
+map_Bump piper/piper_bump.png
+
+newmtl prop.002
+Ns 96.078453
+Ka 0.100000 0.100000 0.100000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 3
+map_Kd piper/piper_diffuse.png

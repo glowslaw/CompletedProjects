@@ -1,0 +1,70 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(538,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (samoloteu.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  collisionFunctions.cpp
+  gameManager.cpp
+C:\Users\Asus\OneDrive\Pulpit\Wszystko\Nauka\Semestr 4\Grafika komputerowa i wizualziacja\Projekt\Projekt_koncowa_wersja_2\engine\engine\engine\gameManager.cpp(30,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Asus\OneDrive\Pulpit\Wszystko\Nauka\Semestr 4\Grafika komputerowa i wizualziacja\Projekt\Projekt_koncowa_wersja_2\engine\engine\engine\gameManager.cpp(89,29): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  GameObject.cpp
+  lodepng.cpp
+C:\Users\Asus\OneDrive\Pulpit\Wszystko\Nauka\Semestr 4\Grafika komputerowa i wizualziacja\Projekt\Projekt_koncowa_wersja_2\engine\engine\engine\lodepng.cpp(762,10): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+C:\Users\Asus\OneDrive\Pulpit\Wszystko\Nauka\Semestr 4\Grafika komputerowa i wizualziacja\Projekt\Projekt_koncowa_wersja_2\engine\engine\engine\lodepng.cpp(1422,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Asus\OneDrive\Pulpit\Wszystko\Nauka\Semestr 4\Grafika komputerowa i wizualziacja\Projekt\Projekt_koncowa_wersja_2\engine\engine\engine\lodepng.cpp(1426,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Asus\OneDrive\Pulpit\Wszystko\Nauka\Semestr 4\Grafika komputerowa i wizualziacja\Projekt\Projekt_koncowa_wersja_2\engine\engine\engine\lodepng.cpp(1498,40): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Asus\OneDrive\Pulpit\Wszystko\Nauka\Semestr 4\Grafika komputerowa i wizualziacja\Projekt\Projekt_koncowa_wersja_2\engine\engine\engine\lodepng.cpp(3441,25): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+C:\Users\Asus\OneDrive\Pulpit\Wszystko\Nauka\Semestr 4\Grafika komputerowa i wizualziacja\Projekt\Projekt_koncowa_wersja_2\engine\engine\engine\lodepng.cpp(3455,53): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Asus\OneDrive\Pulpit\Wszystko\Nauka\Semestr 4\Grafika komputerowa i wizualziacja\Projekt\Projekt_koncowa_wersja_2\engine\engine\engine\lodepng.cpp(4262,42): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Asus\OneDrive\Pulpit\Wszystko\Nauka\Semestr 4\Grafika komputerowa i wizualziacja\Projekt\Projekt_koncowa_wersja_2\engine\engine\engine\lodepng.cpp(4310,26): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Asus\OneDrive\Pulpit\Wszystko\Nauka\Semestr 4\Grafika komputerowa i wizualziacja\Projekt\Projekt_koncowa_wersja_2\engine\engine\engine\lodepng.cpp(4390,34): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Asus\OneDrive\Pulpit\Wszystko\Nauka\Semestr 4\Grafika komputerowa i wizualziacja\Projekt\Projekt_koncowa_wersja_2\engine\engine\engine\lodepng.cpp(5329,27): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  openglFunctions.cpp
+  PhysObject.cpp
+C:\Users\Asus\OneDrive\Pulpit\Wszystko\Nauka\Semestr 4\Grafika komputerowa i wizualziacja\Projekt\Projekt_koncowa_wersja_2\engine\engine\engine\PhysObject.cpp(135,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Asus\OneDrive\Pulpit\Wszystko\Nauka\Semestr 4\Grafika komputerowa i wizualziacja\Projekt\Projekt_koncowa_wersja_2\engine\engine\engine\PhysObject.cpp(138,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  ResourceManager.cpp
+C:\Users\Asus\OneDrive\Pulpit\Wszystko\Nauka\Semestr 4\Grafika komputerowa i wizualziacja\Projekt\Projekt_koncowa_wersja_2\engine\engine\engine\ResourceManager.cpp(120,29): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Asus\OneDrive\Pulpit\Wszystko\Nauka\Semestr 4\Grafika komputerowa i wizualziacja\Projekt\Projekt_koncowa_wersja_2\engine\engine\engine\ResourceManager.cpp(149,54): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\Asus\OneDrive\Pulpit\Wszystko\Nauka\Semestr 4\Grafika komputerowa i wizualziacja\Projekt\Projekt_koncowa_wersja_2\engine\engine\engine\ResourceManager.cpp(266,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Asus\OneDrive\Pulpit\Wszystko\Nauka\Semestr 4\Grafika komputerowa i wizualziacja\Projekt\Projekt_koncowa_wersja_2\engine\engine\engine\ResourceManager.cpp(278,26): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  ShaderProgram.cpp
+C:\Users\Asus\OneDrive\Pulpit\Wszystko\Nauka\Semestr 4\Grafika komputerowa i wizualziacja\Projekt\Projekt_koncowa_wersja_2\engine\engine\engine\ShaderProgram.cpp(37,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  textRenderer.cpp
+C:\Users\Asus\OneDrive\Pulpit\Wszystko\Nauka\Semestr 4\Grafika komputerowa i wizualziacja\Projekt\Projekt_koncowa_wersja_2\engine\engine\engine\textRenderer.cpp(74,33): warning C4838: conversion from 'FT_Pos' to 'unsigned int' requires a narrowing conversion
+  worldGeneration.cpp
+C:\Users\Asus\OneDrive\Pulpit\Wszystko\Nauka\Semestr 4\Grafika komputerowa i wizualziacja\Projekt\Projekt_koncowa_wersja_2\engine\engine\engine\worldGeneration.cpp(19,126): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Users\Asus\OneDrive\Pulpit\Wszystko\Nauka\Semestr 4\Grafika komputerowa i wizualziacja\Projekt\Projekt_koncowa_wersja_2\engine\engine\engine\worldGeneration.cpp(19,126): warning C4305:         with
+C:\Users\Asus\OneDrive\Pulpit\Wszystko\Nauka\Semestr 4\Grafika komputerowa i wizualziacja\Projekt\Projekt_koncowa_wersja_2\engine\engine\engine\worldGeneration.cpp(19,126): warning C4305:         [
+C:\Users\Asus\OneDrive\Pulpit\Wszystko\Nauka\Semestr 4\Grafika komputerowa i wizualziacja\Projekt\Projekt_koncowa_wersja_2\engine\engine\engine\worldGeneration.cpp(19,126): warning C4305:             T=float
+C:\Users\Asus\OneDrive\Pulpit\Wszystko\Nauka\Semestr 4\Grafika komputerowa i wizualziacja\Projekt\Projekt_koncowa_wersja_2\engine\engine\engine\worldGeneration.cpp(19,126): warning C4305:         ]
+C:\Users\Asus\OneDrive\Pulpit\Wszystko\Nauka\Semestr 4\Grafika komputerowa i wizualziacja\Projekt\Projekt_koncowa_wersja_2\engine\engine\engine\worldGeneration.cpp(21,130): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Users\Asus\OneDrive\Pulpit\Wszystko\Nauka\Semestr 4\Grafika komputerowa i wizualziacja\Projekt\Projekt_koncowa_wersja_2\engine\engine\engine\worldGeneration.cpp(21,130): warning C4305:         with
+C:\Users\Asus\OneDrive\Pulpit\Wszystko\Nauka\Semestr 4\Grafika komputerowa i wizualziacja\Projekt\Projekt_koncowa_wersja_2\engine\engine\engine\worldGeneration.cpp(21,130): warning C4305:         [
+C:\Users\Asus\OneDrive\Pulpit\Wszystko\Nauka\Semestr 4\Grafika komputerowa i wizualziacja\Projekt\Projekt_koncowa_wersja_2\engine\engine\engine\worldGeneration.cpp(21,130): warning C4305:             T=float
+C:\Users\Asus\OneDrive\Pulpit\Wszystko\Nauka\Semestr 4\Grafika komputerowa i wizualziacja\Projekt\Projekt_koncowa_wersja_2\engine\engine\engine\worldGeneration.cpp(21,130): warning C4305:         ]
+C:\Users\Asus\OneDrive\Pulpit\Wszystko\Nauka\Semestr 4\Grafika komputerowa i wizualziacja\Projekt\Projekt_koncowa_wersja_2\engine\engine\engine\worldGeneration.cpp(23,129): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Users\Asus\OneDrive\Pulpit\Wszystko\Nauka\Semestr 4\Grafika komputerowa i wizualziacja\Projekt\Projekt_koncowa_wersja_2\engine\engine\engine\worldGeneration.cpp(23,129): warning C4305:         with
+C:\Users\Asus\OneDrive\Pulpit\Wszystko\Nauka\Semestr 4\Grafika komputerowa i wizualziacja\Projekt\Projekt_koncowa_wersja_2\engine\engine\engine\worldGeneration.cpp(23,129): warning C4305:         [
+C:\Users\Asus\OneDrive\Pulpit\Wszystko\Nauka\Semestr 4\Grafika komputerowa i wizualziacja\Projekt\Projekt_koncowa_wersja_2\engine\engine\engine\worldGeneration.cpp(23,129): warning C4305:             T=float
+C:\Users\Asus\OneDrive\Pulpit\Wszystko\Nauka\Semestr 4\Grafika komputerowa i wizualziacja\Projekt\Projekt_koncowa_wersja_2\engine\engine\engine\worldGeneration.cpp(23,129): warning C4305:         ]
+C:\Users\Asus\OneDrive\Pulpit\Wszystko\Nauka\Semestr 4\Grafika komputerowa i wizualziacja\Projekt\Projekt_koncowa_wersja_2\engine\engine\engine\worldGeneration.cpp(92,128): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Users\Asus\OneDrive\Pulpit\Wszystko\Nauka\Semestr 4\Grafika komputerowa i wizualziacja\Projekt\Projekt_koncowa_wersja_2\engine\engine\engine\worldGeneration.cpp(92,128): warning C4305:         with
+C:\Users\Asus\OneDrive\Pulpit\Wszystko\Nauka\Semestr 4\Grafika komputerowa i wizualziacja\Projekt\Projekt_koncowa_wersja_2\engine\engine\engine\worldGeneration.cpp(92,128): warning C4305:         [
+C:\Users\Asus\OneDrive\Pulpit\Wszystko\Nauka\Semestr 4\Grafika komputerowa i wizualziacja\Projekt\Projekt_koncowa_wersja_2\engine\engine\engine\worldGeneration.cpp(92,128): warning C4305:             T=float
+C:\Users\Asus\OneDrive\Pulpit\Wszystko\Nauka\Semestr 4\Grafika komputerowa i wizualziacja\Projekt\Projekt_koncowa_wersja_2\engine\engine\engine\worldGeneration.cpp(92,128): warning C4305:         ]
+C:\Users\Asus\OneDrive\Pulpit\Wszystko\Nauka\Semestr 4\Grafika komputerowa i wizualziacja\Projekt\Projekt_koncowa_wersja_2\engine\engine\engine\worldGeneration.cpp(94,133): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Users\Asus\OneDrive\Pulpit\Wszystko\Nauka\Semestr 4\Grafika komputerowa i wizualziacja\Projekt\Projekt_koncowa_wersja_2\engine\engine\engine\worldGeneration.cpp(94,133): warning C4305:         with
+C:\Users\Asus\OneDrive\Pulpit\Wszystko\Nauka\Semestr 4\Grafika komputerowa i wizualziacja\Projekt\Projekt_koncowa_wersja_2\engine\engine\engine\worldGeneration.cpp(94,133): warning C4305:         [
+C:\Users\Asus\OneDrive\Pulpit\Wszystko\Nauka\Semestr 4\Grafika komputerowa i wizualziacja\Projekt\Projekt_koncowa_wersja_2\engine\engine\engine\worldGeneration.cpp(94,133): warning C4305:             T=float
+C:\Users\Asus\OneDrive\Pulpit\Wszystko\Nauka\Semestr 4\Grafika komputerowa i wizualziacja\Projekt\Projekt_koncowa_wersja_2\engine\engine\engine\worldGeneration.cpp(94,133): warning C4305:         ]
+C:\Users\Asus\OneDrive\Pulpit\Wszystko\Nauka\Semestr 4\Grafika komputerowa i wizualziacja\Projekt\Projekt_koncowa_wersja_2\engine\engine\engine\worldGeneration.cpp(96,133): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Users\Asus\OneDrive\Pulpit\Wszystko\Nauka\Semestr 4\Grafika komputerowa i wizualziacja\Projekt\Projekt_koncowa_wersja_2\engine\engine\engine\worldGeneration.cpp(96,133): warning C4305:         with
+C:\Users\Asus\OneDrive\Pulpit\Wszystko\Nauka\Semestr 4\Grafika komputerowa i wizualziacja\Projekt\Projekt_koncowa_wersja_2\engine\engine\engine\worldGeneration.cpp(96,133): warning C4305:         [
+C:\Users\Asus\OneDrive\Pulpit\Wszystko\Nauka\Semestr 4\Grafika komputerowa i wizualziacja\Projekt\Projekt_koncowa_wersja_2\engine\engine\engine\worldGeneration.cpp(96,133): warning C4305:             T=float
+C:\Users\Asus\OneDrive\Pulpit\Wszystko\Nauka\Semestr 4\Grafika komputerowa i wizualziacja\Projekt\Projekt_koncowa_wersja_2\engine\engine\engine\worldGeneration.cpp(96,133): warning C4305:         ]
+  Generating Code...
+  main.cpp
+C:\Users\Asus\OneDrive\Pulpit\Wszystko\Nauka\Semestr 4\Grafika komputerowa i wizualziacja\Projekt\Projekt_koncowa_wersja_2\engine\engine\engine\main.cpp(41,100): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Users\Asus\OneDrive\Pulpit\Wszystko\Nauka\Semestr 4\Grafika komputerowa i wizualziacja\Projekt\Projekt_koncowa_wersja_2\engine\engine\engine\main.cpp(41,100): warning C4305:         with
+C:\Users\Asus\OneDrive\Pulpit\Wszystko\Nauka\Semestr 4\Grafika komputerowa i wizualziacja\Projekt\Projekt_koncowa_wersja_2\engine\engine\engine\main.cpp(41,100): warning C4305:         [
+C:\Users\Asus\OneDrive\Pulpit\Wszystko\Nauka\Semestr 4\Grafika komputerowa i wizualziacja\Projekt\Projekt_koncowa_wersja_2\engine\engine\engine\main.cpp(41,100): warning C4305:             T=float
+C:\Users\Asus\OneDrive\Pulpit\Wszystko\Nauka\Semestr 4\Grafika komputerowa i wizualziacja\Projekt\Projekt_koncowa_wersja_2\engine\engine\engine\main.cpp(41,100): warning C4305:         ]
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'C:\Users\Asus\OneDrive\Pulpit\Wszystko\Nauka\Semestr 4\Grafika komputerowa i wizualziacja\Projekt\Projekt_koncowa_wersja_2\engine\engine\x64\Debug\vc120.pdb'; linking object as if no debug info
+  engine.vcxproj -> C:\Users\Asus\OneDrive\Pulpit\Wszystko\Nauka\Semestr 4\Grafika komputerowa i wizualziacja\Projekt\Projekt_koncowa_wersja_2\engine\engine\x64\Debug\engine.exe
