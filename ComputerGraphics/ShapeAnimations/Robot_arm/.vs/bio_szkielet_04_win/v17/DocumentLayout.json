@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\OneDrive\\Pulpit\\Wszystko\\Nauka\\Semestr 4\\Grafika komputerowa i wizualziacja\\bio_szkielet_04_win\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7288C82C-3F3E-4501-8878-A310FCA284FE}|bio_szkielet_04_win.vcxproj|C:\\Users\\Asus\\OneDrive\\Pulpit\\Wszystko\\Nauka\\Semestr 4\\Grafika komputerowa i wizualziacja\\bio_szkielet_04_win\\main_file.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7288C82C-3F3E-4501-8878-A310FCA284FE}|bio_szkielet_04_win.vcxproj|solutionrelative:main_file.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main_file.cpp",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Pulpit\\Wszystko\\Nauka\\Semestr 4\\Grafika komputerowa i wizualziacja\\bio_szkielet_04_win\\main_file.cpp",
+              "RelativeDocumentMoniker": "main_file.cpp",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Pulpit\\Wszystko\\Nauka\\Semestr 4\\Grafika komputerowa i wizualziacja\\bio_szkielet_04_win\\main_file.cpp",
+              "RelativeToolTip": "main_file.cpp",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAAANgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-16T11:45:17.32Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

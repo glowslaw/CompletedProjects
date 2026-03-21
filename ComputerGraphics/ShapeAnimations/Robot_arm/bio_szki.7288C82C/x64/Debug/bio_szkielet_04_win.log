@@ -1,0 +1,25 @@
+﻿  cube.cpp
+  lodepng.cpp
+C:\Users\Asus\OneDrive\Pulpit\Wszystko\Nauka\Semestr 4\Grafika komputerowa i wizualziacja\bio_szkielet_04_win\lodepng.cpp(762,10): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+C:\Users\Asus\OneDrive\Pulpit\Wszystko\Nauka\Semestr 4\Grafika komputerowa i wizualziacja\bio_szkielet_04_win\lodepng.cpp(1422,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Asus\OneDrive\Pulpit\Wszystko\Nauka\Semestr 4\Grafika komputerowa i wizualziacja\bio_szkielet_04_win\lodepng.cpp(1426,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Asus\OneDrive\Pulpit\Wszystko\Nauka\Semestr 4\Grafika komputerowa i wizualziacja\bio_szkielet_04_win\lodepng.cpp(1498,40): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Asus\OneDrive\Pulpit\Wszystko\Nauka\Semestr 4\Grafika komputerowa i wizualziacja\bio_szkielet_04_win\lodepng.cpp(3441,25): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+C:\Users\Asus\OneDrive\Pulpit\Wszystko\Nauka\Semestr 4\Grafika komputerowa i wizualziacja\bio_szkielet_04_win\lodepng.cpp(3455,53): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Asus\OneDrive\Pulpit\Wszystko\Nauka\Semestr 4\Grafika komputerowa i wizualziacja\bio_szkielet_04_win\lodepng.cpp(4262,42): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Asus\OneDrive\Pulpit\Wszystko\Nauka\Semestr 4\Grafika komputerowa i wizualziacja\bio_szkielet_04_win\lodepng.cpp(4310,26): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Asus\OneDrive\Pulpit\Wszystko\Nauka\Semestr 4\Grafika komputerowa i wizualziacja\bio_szkielet_04_win\lodepng.cpp(4390,34): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Asus\OneDrive\Pulpit\Wszystko\Nauka\Semestr 4\Grafika komputerowa i wizualziacja\bio_szkielet_04_win\lodepng.cpp(5329,27): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  main_file.cpp
+C:\Users\Asus\OneDrive\Pulpit\Wszystko\Nauka\Semestr 4\Grafika komputerowa i wizualziacja\bio_szkielet_04_win\main_file.cpp(269,18): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  model.cpp
+  shaderprogram.cpp
+C:\Users\Asus\OneDrive\Pulpit\Wszystko\Nauka\Semestr 4\Grafika komputerowa i wizualziacja\bio_szkielet_04_win\shaderprogram.cpp(50,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  sphere.cpp
+C:\Users\Asus\OneDrive\Pulpit\Wszystko\Nauka\Semestr 4\Grafika komputerowa i wizualziacja\bio_szkielet_04_win\sphere.cpp(123,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  teapot.cpp
+  torus.cpp
+C:\Users\Asus\OneDrive\Pulpit\Wszystko\Nauka\Semestr 4\Grafika komputerowa i wizualziacja\bio_szkielet_04_win\torus.cpp(123,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'C:\Users\Asus\OneDrive\Pulpit\Wszystko\Nauka\Semestr 4\Grafika komputerowa i wizualziacja\bio_szkielet_04_win\x64\Debug\vc120.pdb'; linking object as if no debug info
+  bio_szkielet_04_win.vcxproj -> C:\Users\Asus\OneDrive\Pulpit\Wszystko\Nauka\Semestr 4\Grafika komputerowa i wizualziacja\bio_szkielet_04_win\x64\Debug\bio_szkielet_04_win.exe
